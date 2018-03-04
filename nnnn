@@ -14,5 +14,5 @@ printf("The count is..%s",c+1);
 c++;
 }
 }
-
 }
+.......
